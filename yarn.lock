@@ -273,7 +273,7 @@
     "picocolors" "^1.0.0"
     "tslib" "^2.5.0"
 
-"@prisma/client@^4.14.1", "@prisma/client@>=2.26.0 || >=3":
+"@prisma/client@^4.15.0", "@prisma/client@>=2.26.0 || >=3":
   "integrity" "sha512-xnROvyABcGiwqRNdrObHVZkD9EjkJYHOmVdlKy1yGgI+XOzvMzJ4tRg3dz1pUlsyhKxXGCnjIQjWW+2ur+YXuw=="
   "resolved" "https://registry.npmjs.org/@prisma/client/-/client-4.15.0.tgz"
   "version" "4.15.0"
@@ -3090,7 +3090,7 @@
   "resolved" "https://registry.npmjs.org/pretty-format/-/pretty-format-3.8.0.tgz"
   "version" "3.8.0"
 
-"prisma@*", "prisma@^4.14.1":
+"prisma@*", "prisma@^4.15.0":
   "integrity" "sha512-iKZZpobPl48gTcSZVawLMQ3lEy6BnXwtoMj7hluoGFYu2kQ6F9LBuBrUyF95zRVnNo8/3KzLXJXJ5TEnLSJFiA=="
   "resolved" "https://registry.npmjs.org/prisma/-/prisma-4.15.0.tgz"
   "version" "4.15.0"
